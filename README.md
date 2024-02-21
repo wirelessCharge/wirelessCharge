@@ -1,4 +1,4 @@
-### Hi there 👋
+## 사이트 👋
 
 <!--
 **wirelessCharge/wirelessCharge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 프로필
+- 현재업무 -> 오픈스택 클라우드 IaaS
+- 관심분야 -> 임베디드, 정보보안, QEMU/KVM, OpenStack Cloud
