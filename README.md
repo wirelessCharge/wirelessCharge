@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 프로필
-- 현재업무 -> 오픈스택 클라우드 IaaS
-- 관심분야 -> 임베디드, 정보보안, QEMU/KVM, OpenStack Cloud
+### 경력사항
+- OpenStack
+- QEMU/KVM Hypervisor 보안
+- DB 보안
+- Embedded Linux
+- SD Memory 카드
+- Access Control Kernel Module
