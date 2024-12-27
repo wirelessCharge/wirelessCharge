@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### 경력사항
-- OpenStack
-- QEMU/KVM Hypervisor 보안
-- DB 보안
-- Embedded Linux
-- SD Memory 카드
-- Access Control Kernel Module
+
